@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.18.0
+
+### Minor Changes
+
+- [#1507](https://github.com/t3-oss/create-t3-app/pull/1507) [`fe5755c`](https://github.com/t3-oss/create-t3-app/commit/fe5755c2d575ce27e8e9c86e6fc79e7903af0390) Thanks [@LevinUncu](https://github.com/LevinUncu)! - If the project is not in a Git repo, the next steps will show git init instead of git commit -m "initial commit".
+
 ## 7.17.0
 
 ### Minor Changes
