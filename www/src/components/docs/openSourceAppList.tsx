@@ -25,6 +25,14 @@ const projects: App[] = [
   },
 
   {
+    description: "Create, share and collaborate on lyrics.",
+    repoName: "lyrictape",
+    repo: "https://github.com/lyrictape",
+    linkName: "lyrictape.com",
+    link: "https://lyrictape.com",
+  },
+
+  {
     description:
       "Shoutify - Free, open-source, self-hosted social media management",
     repoName: "techsquidtv/shoutify",
@@ -237,6 +245,8 @@ const projects: App[] = [
     linkName: "henriqgoncalvs.com",
     link: "https://henriqgoncalvs.com",
   },
+
+  
 ];
 
 export default function OpenSourceAppList({
